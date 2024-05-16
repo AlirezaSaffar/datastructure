@@ -1,0 +1,2 @@
+add_executable(testRadixSort testRadixSort.cpp)
+target_link_libraries(testRadixSort) 

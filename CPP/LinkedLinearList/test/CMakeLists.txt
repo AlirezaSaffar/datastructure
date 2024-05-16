@@ -1,0 +1,2 @@
+add_executable(testLinkedLinearList testLinkedLinearList.cpp)
+target_link_libraries(testLinkedLinearList) 

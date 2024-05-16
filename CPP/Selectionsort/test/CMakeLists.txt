@@ -1,0 +1,2 @@
+add_executable(testSelectionSort testSelectionSort.cpp X.cpp)
+target_link_libraries(testSelectionSort) 

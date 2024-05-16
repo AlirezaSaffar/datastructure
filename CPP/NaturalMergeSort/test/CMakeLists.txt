@@ -1,0 +1,2 @@
+add_executable(testNaturalMergeSort testNaturalMergeSort.cpp)
+target_link_libraries(testNaturalMergeSort) 

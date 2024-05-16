@@ -1,0 +1,2 @@
+add_executable(testCountingSort testCountingSort.cpp)
+target_link_libraries(testCountingSort) 

@@ -1,0 +1,2 @@
+add_executable(testTwoStackExpressionEvaluation testTwoStackExpressionEvaluation.cpp)
+target_link_libraries(testTwoStackExpressionEvaluation) 
